@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "fancy-band-22c8",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "131bb698-f9f8-4b1c-905d-2abb7aa2b3a4",
+      "database_name": "fancy-band-22c8-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
